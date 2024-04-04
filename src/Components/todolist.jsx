@@ -37,7 +37,7 @@ export default function Todolist() {
   return (
     <div className={Styles.Todolist}>
       <div>
-        <h1>To - Do - List</h1>
+        <h1>Task - Manager </h1>
 
         <input
           type="text"
